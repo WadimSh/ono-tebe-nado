@@ -1,5 +1,36 @@
 .content-section {
-  width: 1440px;
+  width: 100%;
   box-sizing: border-box;
   background-color: #fff;
+}
+
+.address {
+  font-style: normal;
+}
+
+.header {
+  padding: 92px 50px;
+  display: flex;
+}
+
+.header__menu {
+  width: 388px;
+}
+
+.header__links-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.header__logo {
+  margin: auto;
+  width: 148px;
+  height: 105px;
+}
+
+
+
+.header__address {
+  margin-left: auto;
 }
