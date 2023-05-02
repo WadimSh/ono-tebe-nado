@@ -1,1 +1,5 @@
-/* место для вашего кода */
+.content-section {
+  width: 1440px;
+  box-sizing: border-box;
+  background-color: #fff;
+}
