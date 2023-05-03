@@ -70,6 +70,7 @@
 }
 
 .cover {
+  min-height: 757px;
   background-image: url(../images/cover.jpg);
   background-position: top left;
   background-repeat: no-repeat;
@@ -126,7 +127,6 @@
 
 .aligned-text__center {
   text-align: center;
-  margin: 20px 0;
 }
 
 .aligned-text__right {
