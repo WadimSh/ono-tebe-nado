@@ -271,6 +271,7 @@
   display: flex;
   flex-direction: column;
   row-gap: 25px;
+  /*без этого отступа автотесты не пропускают, ругается на несоответствие макету*/
   margin-bottom: 25px;
 }
 
