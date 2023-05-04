@@ -1,5 +1,5 @@
 .content-section {
-  width: 1440px;
+  width: 100%;
   box-sizing: border-box;
   background-color: #fff;
   color: #000;
@@ -129,6 +129,7 @@
 
 .aligned-text {
   display: block;
+  margin-top: 20px;
 }
 
 
